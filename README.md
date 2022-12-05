@@ -1,5 +1,7 @@
 # **TON Ecosystem**
 
+A collection of live projects within the TON ecosystem.
+
 - [Project Categories](#project-categories)
     - [DeFi](#defi)
 
