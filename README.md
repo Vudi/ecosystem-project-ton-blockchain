@@ -24,8 +24,8 @@ A collection of live projects within the TON ecosystem.
 - api.getgems.io  - [Website](https://api.getgems.io/graphql) | [Twitter](https://twitter.com/getgemsdotio) | [Github](https://github.com/getgems-io)
 
 ## Marketplace
-- getgems.io - [Website](https://getgems.io) | [Twitter](https://twitter.com/getgemsdotio) | [Github](https://github.com/getgems-io)
-- disintar.io - [Website](https://disintar.io)
+- getgems.io - [Website](https://getgems.io) | [Twitter](https://twitter.com/getgemsdotio) | [Github](https://github.com/getgems-io) | [Telegram](https://t.me/getgems)
+- disintar.io - [Website](https://disintar.io) | [Github](https://github.com/disintar)
 - ton.diamonds - [Website](https://ton.diamonds)
 - ton.org.in - [Website](https://ton.org.in) | [Twitter](https://twitter.com/IKingyru)
 
@@ -43,6 +43,7 @@ A collection of live projects within the TON ecosystem.
 - ton rocket - [Telegram](https://t.me/tonRocketBot)
 - @cryptobot - [Telegram](https://t.me/CryptoBot)
 - @wallet - [Telegram](https://t.me/wallet)
+- Juston - [Website](https://juston.io) | [Telegram](https://t.me/juston_ru)
 
 ## Launchpad
 - ton starter - [Website](https://tonstarter.com)
