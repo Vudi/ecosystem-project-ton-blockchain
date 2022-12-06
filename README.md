@@ -54,7 +54,7 @@ A collection of live projects within the TON ecosystem.
 - tonvalidators.org - [Website]( https://tonvalidators.org) | [Github](https://github.com/ton-blockchain/mytonctrl/blob/master/docs/en/nominator-pool.md)
 
 ## Launchpad
-- ton starter - [Website](https://tonstarter.com) | [Telegram](https://t.me/ton_starter)  | [Github](https://github.com/Tonstarter)
+- tonstarter - [Website](https://tonstarter.com) | [Telegram](https://t.me/ton_starter)  | [Github](https://github.com/Tonstarter)
 
 # Contribution Guidelines
 
