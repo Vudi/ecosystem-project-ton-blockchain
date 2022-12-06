@@ -10,6 +10,7 @@ A collection of live projects within the TON ecosystem.
     - [Stablecoins](#stablecoins)
     - [Tooling](#tooling)
     - [Wallets](#wallets)
+    - [Staking](#staking)
 - [Contribution Guidelines](#contribution-guidelines)
 
 # Project Categories
@@ -35,6 +36,9 @@ A collection of live projects within the TON ecosystem.
 ## Stablecoins
 
 ## Tooling
+- tonscan.org - [Website](https://tonscan.org) |  [Github](https://github.com/catchain/tonscan)
+- tonwhales.com - [Website](https://tonwhales.com/explorer) | [Github](https://github.com/tonwhales) | [Telegram](https://t.me/tonwhalesnews)
+- TON Whale bot - [Telegram](https://t.me/tonwhale)
 
 ## Wallets
 - tonkeeper - [Website](https://tonkeeper.com) |  [Github](https://github.com/tonkeeper)
@@ -44,6 +48,10 @@ A collection of live projects within the TON ecosystem.
 - @cryptobot - [Telegram](https://t.me/CryptoBot)
 - @wallet - [Telegram](https://t.me/wallet)
 - Juston - [Website](https://juston.io) | [Telegram](https://t.me/juston_ru)
+
+## Staking
+- tonwhales.com - [Website](https://tonwhales.com/staking) | [Github](https://github.com/tonwhales/staking-pool) | [Telegram](https://t.me/tonwhalesnews)
+- tonvalidators.org - [Website]( https://tonvalidators.org)| [Github](https://github.com/ton-blockchain/mytonctrl/blob/master/docs/en/nominator-pool.md)
 
 ## Launchpad
 - ton starter - [Website](https://tonstarter.com)
