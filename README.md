@@ -47,7 +47,7 @@ A collection of live projects within the TON ecosystem.
 - ton rocket - [Telegram](https://t.me/tonRocketBot)
 - @cryptobot - [Telegram](https://t.me/CryptoBot)
 - @wallet - [Telegram](https://t.me/wallet)
-- Juston - [Website](https://juston.io) | [Telegram](https://t.me/juston_ru)
+- Juston - [Website](https://juston.io) | [Telegram](https://t.me/juston_ru) | [Github](https://github.com/labraburn)
 
 ## Staking
 - tonwhales.com - [Website](https://tonwhales.com/staking) | [Github](https://github.com/tonwhales/staking-pool) | [Telegram](https://t.me/tonwhalesnews)
