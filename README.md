@@ -37,8 +37,8 @@ A collection of live projects within the TON ecosystem.
 ## Tooling
 
 ## Wallets
-- tonkeeper - [Website](https://tonkeeper.com)
-- web ton wallet - [Website](https://wallet.ton.org)
+- tonkeeper - [Website](https://tonkeeper.com) |  [Github](https://github.com/tonkeeper)
+- web ton wallet - [Website](https://wallet.ton.org) |  [Github](https://github.com/ton-blockchain)
 - tonhub - [Website](https://tonhub.com)
 - ton rocket - [Telegram](https://t.me/tonRocketBot)
 - @cryptobot - [Telegram](https://t.me/CryptoBot)
