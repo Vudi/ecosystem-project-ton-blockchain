@@ -15,16 +15,19 @@ A collection of live projects within the TON ecosystem.
 # Project Categories
 
 ## DeFi
-- ston.fi - [Telegram](https://t.me/stonfidex) | [Website](https://ston.fi/?en)
+- ston.fi - [Telegram](https://t.me/stonfidex) | [Website](https://ston.fi/?en) | [Twitter](https://twitter.com/ston_fi) | [Github](https://github.com/ston-fi)
 - dedust.io - [Telegram](https://t.me/Scaleton) | [Website](https://dedust.io/)
 - tonswap - [Telegram Bot](https://t.me/TonSwapOfficialBot) | [Website](https://tonswap.org/)
 
 ## Infra
 - dton.io - [Website](https://dton.io)
-- api.getgems.io  - [Website](https://api.getgems.io/graphql)
+- api.getgems.io  - [Website](https://api.getgems.io/graphql) | [Twitter](https://twitter.com/getgemsdotio) | [Github](https://github.com/getgems-io)
 
 ## Marketplace
-- getgems - [Website](https://getgems.io)
+- getgems.io - [Website](https://getgems.io) | [Twitter](https://twitter.com/getgemsdotio) | [Github](https://github.com/getgems-io)
+- disintar.io - [Website](https://disintar.io)
+- ton.diamonds - [Website](https://ton.diamonds)
+- ton.org.in - [Website](https://ton.org.in) | [Twitter](https://twitter.com/IKingyru)
 
 ## NFT Tooling
 - explorer.tonnft.tools  - [Website](https://explorer.tonnft.tools)
@@ -34,15 +37,15 @@ A collection of live projects within the TON ecosystem.
 ## Tooling
 
 ## Wallets
-- tonkeeper
-- wallet
-- tonhub
-- ton rocket
-- cryptobot
-- wallet bot
+- tonkeeper - [Website](https://tonkeeper.com)
+- web ton wallet - [Website](https://wallet.ton.org)
+- tonhub - [Website](https://tonhub.com)
+- ton rocket - [Telegram](https://t.me/tonRocketBot)
+- @cryptobot - [Telegram](https://t.me/CryptoBot)
+- @wallet - [Telegram](https://t.me/wallet)
 
 ## Launchpad
-- ton starter
+- ton starter - [Website](https://tonstarter.com)
 
 # Contribution Guidelines
 
