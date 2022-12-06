@@ -51,10 +51,10 @@ A collection of live projects within the TON ecosystem.
 
 ## Staking
 - tonwhales.com - [Website](https://tonwhales.com/staking) | [Github](https://github.com/tonwhales/staking-pool) | [Telegram](https://t.me/tonwhalesnews)
-- tonvalidators.org - [Website]( https://tonvalidators.org)| [Github](https://github.com/ton-blockchain/mytonctrl/blob/master/docs/en/nominator-pool.md)
+- tonvalidators.org - [Website]( https://tonvalidators.org) | [Github](https://github.com/ton-blockchain/mytonctrl/blob/master/docs/en/nominator-pool.md)
 
 ## Launchpad
-- ton starter - [Website](https://tonstarter.com)
+- ton starter - [Website](https://tonstarter.com) | [Telegram](https://t.me/ton_starter)  | [Github](https://github.com/Tonstarter)
 
 # Contribution Guidelines
 
