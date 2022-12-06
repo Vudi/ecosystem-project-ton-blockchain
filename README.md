@@ -20,7 +20,7 @@ A collection of live projects within the TON ecosystem.
 - tonswap - [Telegram Bot](https://t.me/TonSwapOfficialBot) | [Website](https://tonswap.org/)
 
 ## Infra
-- dton.io - [Website](https://dton.io)
+- dton.io - [Website](https://dton.io) | [Github](https://github.com/disintar)
 - api.getgems.io  - [Website](https://api.getgems.io/graphql) | [Twitter](https://twitter.com/getgemsdotio) | [Github](https://github.com/getgems-io)
 
 ## Marketplace
