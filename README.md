@@ -7,7 +7,6 @@ A collection of live projects within the TON ecosystem.
     - [Infra](#infra)
     - [Marketplace](#marketplace)
     - [NFT Tooling](#nft-tooling)
-    - [Stablecoins](#stablecoins)
     - [Tooling](#tooling)
     - [Wallets](#wallets)
     - [Staking](#staking)
@@ -21,8 +20,7 @@ A collection of live projects within the TON ecosystem.
 - tonswap - [Telegram Bot](https://t.me/TonSwapOfficialBot) | [Website](https://tonswap.org/)
 
 ## Infra
-Projects here. [awesome-ton](https://github.com/ton-community/awesome-ton#apis)
-
+More projects here: [awesome-ton](https://github.com/ton-community/awesome-ton#apis)
 
 ## Marketplace
 - getgems.io - [Website](https://getgems.io) | [Twitter](https://twitter.com/getgemsdotio) | [Github](https://github.com/getgems-io) | [Telegram](https://t.me/getgems)
@@ -32,8 +30,7 @@ Projects here. [awesome-ton](https://github.com/ton-community/awesome-ton#apis)
 
 ## NFT Tooling
 - explorer.tonnft.tools  - [Website](https://explorer.tonnft.tools)
-
-## Stablecoins
+More projects here: [awesome-ton](https://github.com/ton-community/awesome-ton)
 
 ## Tooling
 - tonscan.org - [Website](https://tonscan.org) |  [Github](https://github.com/catchain/tonscan)
