@@ -43,8 +43,8 @@ A collection of live projects within the TON ecosystem.
 ## Wallets
 - tonkeeper - [Website](https://tonkeeper.com) |  [Github](https://github.com/tonkeeper)
 - web ton wallet - [Website](https://wallet.ton.org) |  [Github](https://github.com/ton-blockchain)
-- tonhub - [Website](https://tonhub.com)
-- ton rocket - [Telegram](https://t.me/tonRocketBot)
+- tonhub - [Website](https://tonhub.com) | [Github](https://github.com/tonwhales) | [Telegram](https://t.me/tonwhalesnews)
+- @tonrocketbot - [Telegram](https://t.me/tonRocketBot)
 - @cryptobot - [Telegram](https://t.me/CryptoBot)
 - @wallet - [Telegram](https://t.me/wallet)
 - Juston - [Website](https://juston.io) | [Telegram](https://t.me/juston_ru) | [Github](https://github.com/labraburn)
