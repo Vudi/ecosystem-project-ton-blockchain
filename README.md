@@ -26,6 +26,7 @@ More projects here: [awesome-ton](https://github.com/ton-community/awesome-ton#a
 - getgems.io - [Website](https://getgems.io) | [Twitter](https://twitter.com/getgemsdotio) | [Github](https://github.com/getgems-io) | [Telegram](https://t.me/getgems)
 - disintar.io - [Website](https://disintar.io) | [Github](https://github.com/disintar)
 - ton.diamonds - [Website](https://ton.diamonds)
+- libermall.com - [Website](https://libermall.com) | [Twitter](https://twitter.com/LibermallNFT)
 - ton.org.in - [Website](https://ton.org.in) | [Twitter](https://twitter.com/IKingyru)
 
 ## NFT Tooling
@@ -44,6 +45,7 @@ More projects here: [awesome-ton](https://github.com/ton-community/awesome-ton)
 - @tonrocketbot - [Telegram](https://t.me/tonRocketBot)
 - @cryptobot - [Telegram](https://t.me/CryptoBot)
 - @wallet - [Telegram](https://t.me/wallet)
+- tegro wallet - [Website](https://dev.uniton.app)
 - Juston - [Website](https://juston.io) | [Telegram](https://t.me/juston_ru) | [Github](https://github.com/labraburn)
 
 ## Staking
